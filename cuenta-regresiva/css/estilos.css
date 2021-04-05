@@ -10,9 +10,6 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
-
-
-/* ? ----- PORTADA ----- */
 .portada {
 	width: 100%;
 	background: #EFEFEF;
@@ -52,9 +49,6 @@ body {
 	font-weight: 600;
 }
 
-
-
-/* ? ----- MAIN ----- */
 main {
 	max-width: 1000px;
 	margin: auto;
@@ -65,9 +59,6 @@ main {
 	text-align: left;
 }
 
-
-
-/* ? ----- Cuenta Regresiva ----- */
 #cuenta {
 	display: flex;
 	justify-content: center;
@@ -96,12 +87,6 @@ main {
 	font-size: 30px;
 }
 
-
-/* ? ---------------------------- */
-
-
-
-/* ? ----- REDES SOCIALES ----- */
 .redes-sociales .btn-red-social {
 	/* background: #FF0000; */
 	background-image: linear-gradient(purple, blue);
